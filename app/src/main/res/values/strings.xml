@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Cultupaz3</string>
+    <string name="app_name">CultuPaz</string>
+    <string name="empezar_btn">EMPEZAR</string>
+    <string name="bienvenido_name">Bienvenido</string>
+    <string name="txt_terminos_condiciones_name">Te damos una grata bienvenida a Cultupaz interactua en nuestra interfaz movil, para saber mas de nosotros.</string>
+    <string name="txt_terminos_condiciones_2_name">Antes de continuar acepta nuestros terminos y condiciones para que puedas acceder a nuestra plataforma.</string>
+    <string name="acepta_terminos">Aceptar</string>
+    <string name="no_acepta_terminos">Cancelar</string>
 </resources>

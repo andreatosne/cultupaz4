@@ -28,13 +28,13 @@
             android:name=".Terminosycondiciones"
             android:exported="false" />
         <activity
-            android:name=".Bienvenido"
+            android:name=".MainActivity"
             android:exported="false" />
         <activity
             android:name=".Login"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".Bienvenido"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
