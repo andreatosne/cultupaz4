@@ -6,9 +6,11 @@
     android:layout_height="match_parent"
     android:background="@color/white"
     android:orientation="vertical"
+    android:padding="2pt"
     tools:context=".Terminosycondiciones">
     <TextView
         android:layout_width="wrap_content"
+        android:freezesText="true"
         android:layout_height="wrap_content"
         android:layout_marginTop="15pt"
         android:text="@string/bienvenido_name"
@@ -24,6 +26,7 @@
     <TextView
         android:layout_width="361dp"
         android:layout_height="80dp"
+        android:freezesText="true"
         android:layout_marginLeft="20pt"
         android:layout_marginTop="420dp"
         android:layout_marginRight="20pt"
@@ -37,6 +40,7 @@
     <TextView
         android:layout_width="360dp"
         android:layout_height="77dp"
+        android:freezesText="true"
         android:layout_marginLeft="20pt"
         android:layout_marginTop="508dp"
         android:layout_marginRight="20pt"
