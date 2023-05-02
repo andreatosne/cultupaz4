@@ -16,6 +16,9 @@
             android:name=".Blog"
             android:exported="false" />
         <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
             android:name=".Muro"
             android:exported="false" />
         <activity
@@ -34,7 +37,7 @@
             android:name=".Login"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".Principalblog"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

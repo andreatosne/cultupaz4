@@ -1,3 +1,36 @@
 <resources>
-    <string name="app_name">Cultupaz3</string>
+
+
+    <!--  Blogs-->
+    <string name="app_name">Cultupaz</string>
+    <string name="cultura">Cultura de paz</string>
+    <string name="derechosl">Derechos LGBTI</string>
+    <string name="derechosmujeres">Derechos a las mujeres</string>
+    <string name="pregunta">¿Cuáles son los principios de la cultura de la paz?</string>
+    <string name="masinfomasinfo">Para mas información</string>
+    <string name="culturadescrip">Estos tres principios están interrelacionados y se refuerzan mutuamente: Consentimiento de las partes. Imparcialidad. No uso de la fuerza, excepto en legítima defensa y en defensa del mandato:</string>
+    <string name="tittle">CULTURA Y PAZ </string>
+
+    <string name="derechosninos">Derechos  de los niños </string>
+    <string name="descripcionculturapaz">La cultura de la paz es un proceso de consolidación de una nueva manera de ver, entender y vivir en el mundo, empezando por el propio ser y continuando con los demás, horizontalmente, formando red, promoviendo intercambio mutuo y superando diferencias desde una perspectiva local y global. </string>
+    <string name="descripcion">
+La cultura de paz fomenta una serie de valores, actitudes y comportamientos como respeto, tolerancia, igualdad,que fortalecen y restablecen la convivencia armónica</string>
+
+
+    <!--  links  blogs-->
+
+
+    <!-- link for home text view-->
+    <string name="hyperlink"><a href="https://www.mincultura.gov.co/prensa/noticias/Paginas/Colombia-camina-hacia-la-paz,-a-través-de-la-cultura.aspx">Ministerio de cultura</a></string>
+    <!-- link for practice textview-->
+    <string name="hyperlink2"><a href="https://practice.geeksforgeeks.org/">practice.geeksforgeeks.org</a></string>
+
+
+    <!-- href tag is used to add link-->
+    <!-- link for home text view-->
+
+    <!-- link for practice textview-->
+    <string name="link3"><a href="https://practice.geeksforgeeks.org/">practice.geeksforgeeks.org</a></string>
+
+
 </resources>
