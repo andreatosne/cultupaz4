@@ -1,21 +1,24 @@
 <resources>
-<<<<<<< HEAD
+
 
 
     <!--  Blogs-->
     <string name="app_name">Cultupaz</string>
     <string name="cultura">Cultura de paz</string>
-    <string name="derechosl">Derechos LGBTI</string>
+    <string name="descultura">Garantiza que los conflictos que surgen de las relaciones humanas se resuelven de forma no violenta</string>
+    <string name="derechosl">LGBTIQ+</string>
+    <string name="derechosldescripcion">Igualdad de derechos para las personas LGBTIQ+</string>
     <string name="derechosmujeres">Derechos a las mujeres</string>
     <string name="pregunta">¿Cuáles son los principios de la cultura de la paz?</string>
     <string name="masinfomasinfo">Para mas información</string>
     <string name="culturadescrip">Estos tres principios están interrelacionados y se refuerzan mutuamente: Consentimiento de las partes. Imparcialidad. No uso de la fuerza, excepto en legítima defensa y en defensa del mandato:</string>
-    <string name="tittle">CULTURA Y PAZ </string>
+    <string name="tittle">Fomentando cultura y paz </string>
 
-    <string name="derechosninos">Derechos  de los niños </string>
-    <string name="descripcionculturapaz">La cultura de la paz es un proceso de consolidación de una nueva manera de ver, entender y vivir en el mundo, empezando por el propio ser y continuando con los demás, horizontalmente, formando red, promoviendo intercambio mutuo y superando diferencias desde una perspectiva local y global. </string>
-    <string name="descripcion">
-La cultura de paz fomenta una serie de valores, actitudes y comportamientos como respeto, tolerancia, igualdad,que fortalecen y restablecen la convivencia armónica</string>
+    <string name="derechosninos">Equidad de genero </string>
+    <string name="equidadgenerodescripcion"> Brinda a las mujeres y a los hombres las mismas oportunidades, condiciones, y formas de trato</string>
+    <string name="descripcionculturapaz">La cultura y la paz es un proceso de consolidación de una nueva manera de ver, entender y vivir en el mundo, empezando por el propio ser y continuando con los demás, horizontalmente, formando red, promoviendo intercambio mutuo y superando diferencias desde una perspectiva local y global. </string>
+    <string name="descripcion">La cultura de paz inicia con el reconocimiento de los derechos de las y los demás a una vida digna, lo cual se logra mediante el diálogo y la posibilidad de resolver los conflictos de manera positiva, creando las condiciones que lleven a la paz integral
+        </string>
 
 
     <!--  links  blogs-->
@@ -34,13 +37,13 @@ La cultura de paz fomenta una serie de valores, actitudes y comportamientos como
     <string name="link3"><a href="https://practice.geeksforgeeks.org/">practice.geeksforgeeks.org</a></string>
 
 
-=======
-    <string name="app_name">CultuPaz</string>
+
+
     <string name="empezar_btn">EMPEZAR</string>
     <string name="bienvenido_name">Bienvenido</string>
     <string name="txt_terminos_condiciones_name">Te damos una grata bienvenida a Cultupaz interactua en nuestra interfaz movil, para saber mas de nosotros.</string>
     <string name="txt_terminos_condiciones_2_name">Antes de continuar acepta nuestros terminos y condiciones para que puedas acceder a nuestra plataforma.</string>
     <string name="acepta_terminos">Aceptar</string>
     <string name="no_acepta_terminos">Cancelar</string>
->>>>>>> c02bc4b98bf157daf0f6c97dfc8a3a3e294cb455
+
 </resources>
