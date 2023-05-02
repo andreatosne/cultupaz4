@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".Principalblog"
     android:orientation="vertical"
+    android:background="@color/white"
     android:layout_marginLeft="5pt"
     android:layout_marginRight="3pt">
 
