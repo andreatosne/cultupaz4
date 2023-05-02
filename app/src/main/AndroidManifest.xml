@@ -11,7 +11,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Cultupaz3"
+        android:hardwareAccelerated="false"
+        android:largeHeap="true"
         tools:targetApi="31">
+
+        <activity
+            android:name=".ImagenCompleta"
+            android:exported="false"
+            android:parentActivityName=".galeriaarts"
+            />
+        <activity
+        android:name=".galeriaarts"
+        android:screenOrientation="portrait"
+        android:exported="true"
+        android:parentActivityName=".galeriaarts"
+            />
+
         <activity
             android:name=".Blog"
             android:screenOrientation="portrait"
@@ -21,9 +36,6 @@
             android:exported="false" />
         <activity
             android:name=".Muro"
-            android:exported="false" />
-        <activity
-            android:name=".Artesanias"
             android:exported="false" />
         <activity
             android:name=".vistaprincipal"
