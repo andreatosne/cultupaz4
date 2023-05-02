@@ -1,4 +1,5 @@
 <resources>
+<<<<<<< HEAD
 
 
     <!--  Blogs-->
@@ -33,4 +34,13 @@ La cultura de paz fomenta una serie de valores, actitudes y comportamientos como
     <string name="link3"><a href="https://practice.geeksforgeeks.org/">practice.geeksforgeeks.org</a></string>
 
 
+=======
+    <string name="app_name">CultuPaz</string>
+    <string name="empezar_btn">EMPEZAR</string>
+    <string name="bienvenido_name">Bienvenido</string>
+    <string name="txt_terminos_condiciones_name">Te damos una grata bienvenida a Cultupaz interactua en nuestra interfaz movil, para saber mas de nosotros.</string>
+    <string name="txt_terminos_condiciones_2_name">Antes de continuar acepta nuestros terminos y condiciones para que puedas acceder a nuestra plataforma.</string>
+    <string name="acepta_terminos">Aceptar</string>
+    <string name="no_acepta_terminos">Cancelar</string>
+>>>>>>> c02bc4b98bf157daf0f6c97dfc8a3a3e294cb455
 </resources>
