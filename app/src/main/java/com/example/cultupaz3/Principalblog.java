@@ -10,11 +10,13 @@ import android.widget.TextView;
 public class Principalblog extends AppCompatActivity {
 
     TextView culturaypaz;
+    TextView  LGBTIQ;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_principalblog);
+        LGBTIQ =  findViewById(R.id.LGTBIQ);
 
         culturaypaz  = findViewById(R.id.culturaypaz);
 
@@ -24,6 +26,15 @@ public class Principalblog extends AppCompatActivity {
                 Intent irsiguiente = new Intent(Principalblog.this,Blog.class);
                 startActivity(irsiguiente);
 
+            }
+        });
+
+
+        LGBTIQ.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent irlgtiq = new Intent(Principalblog.this,lgtbiq_informacion.class);
+                startActivity(irlgtiq);
             }
         });
     }

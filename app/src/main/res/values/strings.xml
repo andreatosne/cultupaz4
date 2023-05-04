@@ -1,7 +1,6 @@
 <resources>
 
 
-
     <!--  Blogs-->
     <string name="app_name">Cultupaz</string>
     <string name="cultura">Cultura de paz</string>
@@ -37,8 +36,6 @@
     <string name="link3"><a href="https://practice.geeksforgeeks.org/">practice.geeksforgeeks.org</a></string>
 
 
-
-
     <string name="empezar_btn">EMPEZAR</string>
     <string name="bienvenido_name">Bienvenido</string>
     <string name="txt_terminos_condiciones_name">Te damos una grata bienvenida a Cultupaz interactua en nuestra interfaz movil, para saber mas de nosotros.</string>
@@ -46,5 +43,28 @@
     <string name="acepta_terminos">Aceptar</string>
     <string name="no_acepta_terminos">Cancelar</string>
     <string name="iv_logo">Logo</string>
+
+
+    <!-- lgtbiq INFORMACION-->
+
+
+    <string name="titulo">LGTBIQ+ Terminología de la diversidad</string>
+    <string name="titulo1">A propósito del esquema del post de mi blog
+        Roles de género – Diversidad sexual, y gracias a algunas dudas
+        que hemos aclarado y otras que aún tenemos al respecto,
+        he decidido recopilar en éste nuevo post la terminología de las
+        siglas LGBTIQ+ además del resto de las que aparecen en el esquema
+        y alguna más con sus correspondientes definiciones, para así
+        compartir con vosotres algunos de los temas que inspiran mis
+        últimos dibujos, con los que grito por laigualdad de
+        género, en una rebelión contra los roles que
+        el heterocispatriarcado impone.</string>
+    <string name="titulo2">LGTBIQ+  son las siglas que designan
+        colectivamente lésbico, gay, bisexual,trans, intersexual,
+        queer, incluyendo a través del + cualquier otra identidad
+        que se quede en el medio de todas ellas o en ninguna parte. </string>
+
+    /*links blogs informacion*/
+    <string name="hiperlink1"><a href="https://www.corteidh.or.cr/tablas/r24906.pdf">El amor en tiempos de cólera: Derechos LGBT en COLOMBIA</a></string>
 
 </resources>
