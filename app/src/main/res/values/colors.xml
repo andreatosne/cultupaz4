@@ -5,7 +5,9 @@
 
     <color name="purple_500">#020D44</color>
     <color name="rojo">#A12903</color>
-
+    <color name="purpledark">#00324D</color>
     <color name="btncolor">#0b2c4a</color>
+    <color name="nuevo">#C6C2C2</color>
+
 
 </resources>
