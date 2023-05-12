@@ -15,6 +15,9 @@
         android:theme="@style/Theme.Cultupaz3"
         tools:targetApi="31">
         <activity
+            android:name=".newmensaje"
+            android:exported="false" />
+        <activity
             android:name=".lgtbiq_informacion"
             android:exported="false" />
         <activity
