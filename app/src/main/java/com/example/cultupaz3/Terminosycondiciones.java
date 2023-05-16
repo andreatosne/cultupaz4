@@ -16,9 +16,8 @@ public class Terminosycondiciones extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_terminosycondiciones);
         btn_acepta_terminos = findViewById(R.id.btn_acepta_terminos);
+        btn_cancelar_terminos=findViewById(R.id.btn_cancelar_terminos);
 
-        btn_acepta_terminos = (Button) findViewById(R.id.btn_acepta_terminos);
-        btn_cancelar_terminos=(Button) findViewById(R.id.btn_cancelar_terminos);
 
         btn_acepta_terminos.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -38,3 +37,5 @@ public class Terminosycondiciones extends AppCompatActivity {
 
 
 }
+
+
