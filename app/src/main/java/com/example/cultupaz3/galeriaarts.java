@@ -1,6 +1,7 @@
 package com.example.cultupaz3;
 
 import android.content.Intent;
+import android.content.pm.ActivityInfo;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
@@ -18,6 +19,7 @@ public class galeriaarts extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_galeriaarts);
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
         gridView =(GridView)findViewById(R.id.gv_imagenes);
         gridView.setAdapter(new GaleriaArtes( this));
