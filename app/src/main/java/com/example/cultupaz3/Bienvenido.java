@@ -10,15 +10,13 @@ import android.widget.ImageView;
 
 public class Bienvenido extends AppCompatActivity {
     Button btn_empezar;
-    ImageView img_logo;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bienvenido);
 
         btn_empezar = findViewById(R.id.btn_empezar);
-
-        btn_empezar = (Button) findViewById(R.id.btn_empezar);
 
         btn_empezar.setOnClickListener(new View.OnClickListener() {
             @Override
